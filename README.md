@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![antiquality's GitHub stats](https://github-readme-stats.vercel.app/api?username=antiquality&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **AntiQuality/antiquality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
